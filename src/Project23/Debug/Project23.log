@@ -1,0 +1,13 @@
+﻿  소스.cpp
+C:\Users\82105\source\repos\Project23\Project23\include\FreeImage.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\82105\source\repos\Project23\Project23\소스.cpp(232,36): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\82105\source\repos\Project23\Project23\소스.cpp(332,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\82105\source\repos\Project23\Project23\소스.cpp(356,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\82105\source\repos\Project23\Project23\소스.cpp(426,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\82105\source\repos\Project23\Project23\소스.cpp(456,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\82105\source\repos\Project23\Project23\소스.cpp(561,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\82105\source\repos\Project23\Project23\소스.cpp(592,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\82105\source\repos\Project23\Project23\소스.cpp(599,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\82105\source\repos\Project23\Project23\소스.cpp(673,24): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\82105\source\repos\Project23\Project23\소스.cpp(830,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Project23.vcxproj -> C:\Users\82105\source\repos\Project23\Debug\Project23.exe
